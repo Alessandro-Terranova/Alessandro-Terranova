@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi, I'm Alessandro 🐈‍⬛
 
 <!--
 **Alessandro-Terranova/Alessandro-Terranova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **M.Sc. in Theoretical Particle Physics | University of Pisa**
 -->
-I am a Physicist with a strong analytical mindset, specialising in high-level data analysis and complex problem-solving. I have a MSc in Theoretical Particle Physics at the University of Pisa, with experience in modelling and statistical inference.
+I am a Physicist with a strong analytical mindset, specialising in high-level data analysis and complex problem-solving. I have an MSc in Theoretical Particle Physics at the University of Pisa, with experience in modelling and statistical inference.
+Currently, I'm seeking a job that can apply my background and further develop my skills.
 
 ### 🛠 Tech Stack & Skills
 
